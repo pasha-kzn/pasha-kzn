@@ -2,8 +2,6 @@
 
 About me
 
-- I'm 44 years old
-- I've been working in  IT for 4 years
 - I'm currently working as an AQA engineer
 - Before i worked as a manual QA engineer
 - I'm learning Java at [Job4j](https://job4j.ru/)
